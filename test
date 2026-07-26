@@ -1,4 +1,4 @@
-name: Tests
+name: Test
 description: Automatically parallelise and run your test suites on Buildkite
 author: https://github.com/buildkite
 requirements:
